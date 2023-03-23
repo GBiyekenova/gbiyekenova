@@ -3,7 +3,7 @@
 I am Gulbike Biyekenova (Becca), Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gbknva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbknva@gmail.com)](mailto:gbknva@gmail.com)
 
 ## ⚡ Technologies
 
